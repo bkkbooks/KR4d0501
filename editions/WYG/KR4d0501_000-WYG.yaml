@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4d0501/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 游
+  hash: sha256:251e86cb3aceffc7bec51de37b771d2ab3901b8edf93c0e57f8d78acaf13963a
+metadata:
+  title: 淵穎吳先生集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 16:24:39.998189'
+  source:
+    repository: kanripo
+    path: KR4d0501/KR4d0501_000.txt
+hash: sha256:b0f586b1b634e14ad058c1c5fae701f83aa570f20a841cebb4b19d6f3e3dc7f3
