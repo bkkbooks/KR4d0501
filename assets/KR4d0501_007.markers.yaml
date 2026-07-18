@@ -3645,6 +3645,7 @@ markers:
   - {type: line-break, offset: 10880, content: '', id: KR4d0501_SBCK_007-20a05}
   - {type: indent, offset: 10880, content: 　　, id: KR4d0501_krp_007-bkkind22}
   - {type: punctuation, offset: 10884, content: (, id: KR4d0501_krp_007-bkkpn1}
+  - {type: voice, offset: 10884, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 10886, content: ), id: KR4d0501_krp_007-bkkpn2}
   - {type: 'kr:newline', offset: 10886, content: '
 
@@ -5125,4 +5126,4 @@ markers:
   - {type: variant, offset: 14833, length: 0, content: '', WYG: 欽定四庫全書淵穎集巻八元吳萊撰}
   - {type: page-break, offset: 14833, content: '', id: KR4d0501_WYG_008-1a, image: WYG1209/WYG1209-0141a.png}
   back: []
-hash: sha256:b768a95d47290acd734459a63c1c7e9f17a211d34bd6687ac49d5dc75292e7e6
+hash: sha256:5662ce6be9f3b5abc3ed3eaf3c9f2806cf7a89a198268e48eb9064f2fce98f81

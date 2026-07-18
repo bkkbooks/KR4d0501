@@ -920,6 +920,7 @@ markers:
   - {type: page-break, offset: 2598, content: '', id: KR4d0501_WYG_011-9a, image: WYG1209/WYG1209-0186c.png}
   - {type: punctuation, offset: 2599, content: (, id: KR4d0501_krp_011-bkkpn1}
   - {type: variant, offset: 2599, length: 1, content: 陏, WYG: 隋}
+  - {type: voice, offset: 2599, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 2601, content: /, id: KR4d0501_krp_011-bkkpn2}
   - {type: punctuation, offset: 2603, content: ), id: KR4d0501_krp_011-bkkpn3}
   - {type: 'kr:newline', offset: 2607, content: '
@@ -1535,6 +1536,7 @@ markers:
       ', id: KR4d0501_krp_011-bkkkrnewl213}
   - {type: line-break, offset: 4392, content: '', id: KR4d0501_SBCK_011-8b04}
   - {type: punctuation, offset: 4393, content: (, id: KR4d0501_krp_011-bkkpn4}
+  - {type: voice, offset: 4393, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 4394, content: /, id: KR4d0501_krp_011-bkkpn5}
   - {type: punctuation, offset: 4395, content: ), id: KR4d0501_krp_011-bkkpn6}
   - {type: page-break, offset: 4395, content: '', id: KR4d0501_WYG_011-14b, image: WYG1209/WYG1209-0189b.png}
@@ -2804,4 +2806,4 @@ markers:
   - {type: variant, offset: 8069, length: 0, content: '', WYG: 欽定四庫全書淵頴集卷十二元呉萊撰桑}
   - {type: page-break, offset: 8069, content: '', id: KR4d0501_WYG_012-1a, image: WYG1209/WYG1209-0195a.png}
   back: []
-hash: sha256:cff774968e6dbe1447d2ced18c3ff19c381c77d1dc4b4c1a63a147a28fb3f504
+hash: sha256:0e34227e70657bfbb0f084a8283c4e8918f172c95846988bcf3bdb2440e981a7

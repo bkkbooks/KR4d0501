@@ -631,6 +631,7 @@ markers:
   - {type: line-break, offset: 2247, content: '', id: KR4d0501_SBCK_005-4b11}
   - {type: punctuation, offset: 2258, content: (, id: KR4d0501_krp_005-bkkpn1}
   - {type: variant, offset: 2258, length: 2, content: 行鳥, WYG: ''}
+  - {type: voice, offset: 2258, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 2259, content: /, id: KR4d0501_krp_005-bkkpn2}
   - {type: punctuation, offset: 2260, content: ), id: KR4d0501_krp_005-bkkpn3}
   - {type: substitution, offset: 2260, original: 忼, replacement: 慷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19881}}
@@ -2578,4 +2579,4 @@ markers:
   - {type: variant, offset: 7907, length: 0, content: '', WYG: 欽定四庫全書淵頴集卷六元吳萊撰}
   - {type: page-break, offset: 7907, content: '', id: KR4d0501_WYG_006-1a, image: WYG1209/WYG1209-0098c.png}
   back: []
-hash: sha256:11ca621d0aa8e70f1e35d611f23ecc1f99c719273ef414f3e577184e6095a16d
+hash: sha256:0fffe99fb1da11760183f912acfb28ae061244e0748037a7933498a669f53fc0

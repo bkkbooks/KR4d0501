@@ -2189,6 +2189,7 @@ markers:
   - {type: variant, offset: 6114, length: 1, content: 追, SBCK: 􅇷}
   - {type: variant, offset: 6122, length: 1, content: 類, SBCK: 􅀋}
   - {type: punctuation, offset: 6124, content: (, id: KR4d0501_krp_008-bkkpn1}
+  - {type: voice, offset: 6124, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 6125, content: /, id: KR4d0501_krp_008-bkkpn2}
   - {type: punctuation, offset: 6126, content: ), id: KR4d0501_krp_008-bkkpn3}
   - {type: variant, offset: 6133, length: 1, content: 而, WYG: 為}
@@ -2437,6 +2438,7 @@ markers:
       ', id: KR4d0501_krp_008-bkkkrnewl344}
   - {type: line-break, offset: 6988, content: '', id: KR4d0501_SBCK_008-13a09}
   - {type: punctuation, offset: 6990, content: (, id: KR4d0501_krp_008-bkkpn4}
+  - {type: voice, offset: 6990, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 6991, content: /, id: KR4d0501_krp_008-bkkpn5}
   - {type: punctuation, offset: 6992, content: ), id: KR4d0501_krp_008-bkkpn6}
   - {type: variant, offset: 6993, length: 1, content: 所, SBCK: 􅀁}
@@ -2979,4 +2981,4 @@ markers:
   - {type: variant, offset: 8513, length: 0, content: '', WYG: 欽定四庫全書淵頴集卷九元呉萊撰}
   - {type: page-break, offset: 8513, content: '', id: KR4d0501_WYG_009-1a, image: WYG1209/WYG1209-0155a.png}
   back: []
-hash: sha256:20ce98422740a585a517fda4215bb30d7c214fb8c0e69cb06a99a0dbcf7b430a
+hash: sha256:0f76511aac3b431b4dc17d25694e4fe6766bba0630a41c9970afed0ee799feac

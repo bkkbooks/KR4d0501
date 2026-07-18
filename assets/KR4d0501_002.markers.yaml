@@ -356,6 +356,7 @@ markers:
   - {type: variant, offset: 859, length: 1, content: 㢤, WYG: 哉}
   - {type: substitution, offset: 859, original: 㢤, replacement: 哉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19431}}
   - {type: punctuation, offset: 864, content: (, id: KR4d0501_krp_002-bkkpn1}
+  - {type: voice, offset: 864, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 865, content: ), id: KR4d0501_krp_002-bkkpn2}
   - {type: variant, offset: 867, length: 1, content: 傍, SBCK: 􅅖}
   - {type: variant, offset: 867, length: 1, content: 傍, WYG: 旁}
@@ -1315,6 +1316,7 @@ markers:
   - {type: punctuation, offset: 3200, content: (, id: KR4d0501_krp_002-bkkpn3}
   - {type: variant, offset: 3200, length: 1, content: 䖝, WYG: ''}
   - {type: substitution, offset: 3200, original: 䖝, replacement: 蟲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20171}}
+  - {type: voice, offset: 3200, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 3201, content: ), id: KR4d0501_krp_002-bkkpn4}
   - {type: variant, offset: 3207, length: 1, content: 䛕, WYG: 諛}
   - {type: substitution, offset: 3207, original: 䛕, replacement: 諛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20226}}
@@ -5123,4 +5125,4 @@ markers:
   - {type: variant, offset: 11861, length: 0, content: '', WYG: 欽定四庫全書淵頴集卷三元呉萊撰}
   - {type: page-break, offset: 11861, content: '', id: KR4d0501_WYG_003-1a, image: WYG1209/WYG1209-0035a.png}
   back: []
-hash: sha256:326e887172f1ee21c942073a0c7cd09415048f5429f87bebb0fa0a19cc96c34b
+hash: sha256:2dafc30f646eeca2e127071a47d8abcb88a1c45f27c5f8e158e1f5f0c2270914

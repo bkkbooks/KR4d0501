@@ -17,6 +17,7 @@ markers:
   - {type: indent, offset: 0, content: 　　, id: KR4d0501_krp_001-bkkind1}
   - {type: substitution, offset: 1, original: 㳺, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20160}}
   - {type: punctuation, offset: 3, content: (, id: KR4d0501_krp_001-bkkpn1}
+  - {type: voice, offset: 3, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 5, content: ), id: KR4d0501_krp_001-bkkpn2}
   - {type: 'kr:newline', offset: 5, content: '
 
@@ -813,6 +814,7 @@ markers:
   - {type: indent, offset: 1657, content: 　　, id: KR4d0501_krp_001-bkkind9}
   - {type: variant, offset: 1659, length: 1, content: 鳯, WYG: 鳳}
   - {type: punctuation, offset: 1661, content: (, id: KR4d0501_krp_001-bkkpn3}
+  - {type: voice, offset: 1661, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 1663, content: ), id: KR4d0501_krp_001-bkkpn4}
   - {type: 'kr:newline', offset: 1663, content: '
 
@@ -1458,6 +1460,7 @@ markers:
   - {type: line-break, offset: 3059, content: '', id: KR4d0501_SBCK_001-6a11}
   - {type: indent, offset: 3059, content: 　　, id: KR4d0501_krp_001-bkkind13}
   - {type: punctuation, offset: 3063, content: (, id: KR4d0501_krp_001-bkkpn5}
+  - {type: voice, offset: 3063, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 3065, content: ), id: KR4d0501_krp_001-bkkpn6}
   - {type: 'kr:newline', offset: 3065, content: '
 
@@ -2822,6 +2825,7 @@ markers:
   - {type: indent, offset: 6144, content: 　　, id: KR4d0501_krp_001-bkkind22}
   - {type: variant, offset: 6144, length: 1, content: 貪, WYG: 貧}
   - {type: punctuation, offset: 6147, content: (, id: KR4d0501_krp_001-bkkpn7}
+  - {type: voice, offset: 6147, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 6149, content: ), id: KR4d0501_krp_001-bkkpn8}
   - {type: 'kr:newline', offset: 6149, content: '
 
@@ -3133,4 +3137,4 @@ markers:
   - {type: variant, offset: 6799, length: 0, content: '', WYG: 欽定四庫全書淵穎集卷二元吳萊撰}
   - {type: page-break, offset: 6799, content: '', id: KR4d0501_WYG_002-1a, image: WYG1209/WYG1209-0015a.png}
   back: []
-hash: sha256:5e0650e7db09be07f06bbb0b02556d2a2fbb008b02fe78b49ece144938be0143
+hash: sha256:5aa39ace49e38618e3729d74d53885bf7d839ae299fee617d15391248c8e6aec
